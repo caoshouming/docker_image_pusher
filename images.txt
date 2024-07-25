@@ -1,1 +1,1 @@
-nginx
+hectorqin/reader
